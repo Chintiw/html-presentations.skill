@@ -1,4 +1,4 @@
-made with Claude
+Made with Claude
 
 **`html-presentations.skill`** — install this to give Claude the ability to build stunning browser-based slide decks.
 
